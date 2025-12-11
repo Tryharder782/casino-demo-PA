@@ -3,7 +3,7 @@
 ![Casino Preview](./preview.gif)
 
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)]([https://casino-playable-demo.vercel.app](https://casino-demo-pa.vercel.app/))
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://casino-demo-pa.vercel.app/)
 
 
 ## 💎 Overview
