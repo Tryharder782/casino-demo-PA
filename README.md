@@ -1,10 +1,10 @@
 # 🎰 Golden Chip | High-Fidelity iGaming Playable Ad
 
-![Casino Preview](preview.gif)
-<!-- УБЕДИСЬ, ЧТО ФАЙЛ preview.gif ЛЕЖИТ В ПАПКЕ public ИЛИ В КОРНЕ -->
+![Casino Preview](./preview.gif)
+
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://casino-playable-demo.vercel.app)
-<!-- ЗАМЕНИ ССЫЛКУ ВЫШЕ НА ТВОЮ ФИНАЛЬНУЮ ССЫЛКУ VERCEL -->
+
 
 ## 💎 Overview
 
