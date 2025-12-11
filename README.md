@@ -1,4 +1,4 @@
-# 🎰 Golden Chip | High-Fidelity iGaming Playable Ad
+# 🎰 Casino Coin Clicker | High-Fidelity iGaming Playable Ad
 
 ![Casino Preview](./preview.gif)
 
@@ -37,7 +37,7 @@ iGaming ads require a "premium" look (shiny gold, smooth animations) which usual
 
 **My Solution:**
 1.  **Procedural Materials:** Instead of using heavy baked textures, I utilize Three.js PBR materials with optimized Environment Maps to simulate gold reflections.
-2.  **Asset Compression:** The 3D chip model is Draco-compressed and embedded directly into the code.
+2.  **Asset Compression:** The 3D coin model is Draco-compressed and embedded directly into the code.
 3.  **Code-Driven Animation:** Animations are calculated mathematically at runtime, saving megabytes of asset data.
 
 ## 💻 Local Development
